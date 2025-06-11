@@ -32,7 +32,7 @@ layout: default
     <p>Forecasted 14-day sales using time series models, improving inventory accuracy and reducing waste.</p>
     <ul>
       <li>Tools: Python (Scikit-learn, LightGBM), PowerPoint, APIs</li>
-      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/sales-forecasting">View on GitHub</a></li>
+      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/sales-forecasting-egrocery">View on GitHub</a></li>
     </ul>
   </div>
 
@@ -41,7 +41,7 @@ layout: default
     <p>Segmented customers by purchasing behavior to support personalized marketing strategies.</p>
     <ul>
       <li>Tools: Python (EDA, Clustering, Plotly)</li>
-      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/customer-segmentation">View on GitHub</a></li>
+      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/marketing2-customer-segmentation">View on GitHub</a></li>
     </ul>
   </div>
 
@@ -57,8 +57,8 @@ layout: default
   </p>
   <ul>
     <li>Tools: Power BI, DAX, Alpha Vantage API, Excel</li>
-    <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-analysis">View Project on GitHub</a></li>
-    <li><a href="https://kaikesvieira.github.io/kaikevieira/assets/Big5CanadianBanks_Presentation.pdf">View Project Presentation</a></li>
+    <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-powerbi-big5-analysis">View Project on GitHub</a></li>
+    <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/financial-powerbi-big5-analysis/Big5CanadianBanks_Presentation.pptx">View Project Presentation</a></li>
   </ul>
 </div>
 </section>
