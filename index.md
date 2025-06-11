@@ -46,19 +46,21 @@ layout: default
   </div>
 
   <div>
-    <h3>Financial Analysis – Canadian Banks</h3>
-    <img src="assets/big5_2.png" alt="Power BI Dashboard Screenshot" style="max-width:100%; height:auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin: 1rem 0;">
-    <p>
-      Performed descriptive financial analysis of Canada's Big 5 Banks using Power BI and Alpha Vantage API. 
-      Transformed raw API data into structured tables and created interactive dashboards visualizing profitability, growth trends, and bank comparisons. 
-      The insights helped simulate how stakeholders might make decisions based on real-time financial metrics.
-    </p>
-    <ul>
-      <li>Tools: Power BI, DAX, Alpha Vantage API, Excel</li>
-      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-analysis">View Project on GitHub</a></li>
-      <li><a href="https://kaikesvieira.github.io/kaikevieira/assets/Big5CanadianBanks_Presentation.pdf">View Project Presentation</a></li>
-    </ul>
-  </div>
+  <h3>Financial Analysis – Canadian Banks (Interactive Dashboard)</h3>
+  <iframe title="Financial Analytics Project" width="100%" height="541.25" 
+          src="https://app.powerbi.com/reportEmbed?reportId=1f7f554e-734f-4f01-898e-8d3557a33728&autoAuth=true&ctid=c986676f-9b39-4d08-b4f8-a668e0e8c6a5" 
+          frameborder="0" allowFullScreen="true"></iframe>
+  <p>
+    Performed descriptive financial analysis of Canada's Big 5 Banks using Power BI and Alpha Vantage API. 
+    Transformed raw API data into structured tables and created interactive dashboards visualizing profitability, growth trends, and bank comparisons. 
+    The insights helped simulate how stakeholders might make decisions based on real-time financial metrics.
+  </p>
+  <ul>
+    <li>Tools: Power BI, DAX, Alpha Vantage API, Excel</li>
+    <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-analysis">View Project on GitHub</a></li>
+    <li><a href="https://kaikesvieira.github.io/kaikevieira/assets/Big5CanadianBanks_Presentation.pdf">View Project Presentation</a></li>
+  </ul>
+</div>
 </section>
 
 <!-- Resume Section -->
