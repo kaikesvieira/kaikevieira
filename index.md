@@ -47,7 +47,7 @@ layout: default
 
   <div>
     <h3>Financial Analysis – Canadian Banks</h3>
-    <img src="/assets/big5_2.png" alt="Power BI Dashboard Screenshot" style="max-width:100%; height:auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin: 1rem 0;">
+    <img src="tree/main/assets/big5_2.png" alt="Power BI Dashboard Screenshot" style="max-width:100%; height:auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); margin: 1rem 0;">
     <p>
       Performed descriptive financial analysis of Canada's Big 5 Banks using Power BI and Alpha Vantage API. 
       Transformed raw API data into structured tables and created interactive dashboards visualizing profitability, growth trends, and bank comparisons. 
