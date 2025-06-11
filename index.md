@@ -4,13 +4,13 @@ Welcome! I'm Kaike Vieira, a Data Analyst with a background in engineering, data
 
 ## 🧠 Featured Projects
 
-### 🔹 [Sales Forecasting – E-Grocery Industry](./sales-forecasting-egrocery/)
+### 🔹 [Sales Forecasting – E-Grocery Industry]([./sales-forecasting-egrocery/](https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/sales-forecasting-egrocery))
 > Forecasted 14-day daily sales using historical data, calendar, and weather info to support inventory planning and reduce waste. Built regression models using Scikit-learn and evaluated with MAE.
 
-### 🔹 [Customer Segmentation – Retail](./marketing2-customer-segmentation/)
+### 🔹 [Customer Segmentation – Retail]([./marketing2-customer-segmentation/](https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/marketing2-customer-segmentation))
 > Applied clustering and RFM analysis to segment customers and drive personalized marketing strategies. Used Python and data visualization tools to generate business insights.
 
-### 🔹 [Financial Descriptive Analysis – Big 5 Canadian Banks](./financial-powerbi-big5-analysis/)
+### 🔹 [Financial Descriptive Analysis – Big 5 Canadian Banks]([./financial-powerbi-big5-analysis/](https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-powerbi-big5-analysis))
 > Analyzed financial performance of Canada's top banks using Power BI and Alpha Vantage API. Built interactive dashboards to compare profitability and market trends, supporting data-driven banking insights. Developed metrics using DAX and data modeling.
 
 ## 🛠️ Tools & Skills
