@@ -91,7 +91,7 @@
 <!-- Hero Section -->
 <section class="hero">
   <h1>Kaike Vieira</h1>
-  <p style="font-size: 1.2rem;">Data Analyst | BI Developer | Process Optimizer</p>
+  <p style="font-size: 1.2rem;">Data & Business Intelligence Analyst | Process Optimizer</p>
   <p>Transforming complex data into actionable insights using Power BI, SQL, Python, and Excel.</p>
   <div>
     <a href="https://www.linkedin.com/in/kaikevieira/" class="button-link"><i class="fab fa-linkedin"></i> LinkedIn</a>
