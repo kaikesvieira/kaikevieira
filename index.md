@@ -40,11 +40,6 @@
       background: linear-gradient(to right, #1e3c72, #2a5298);
       color: white;
     }
-    .hero img {
-      width: 120px;
-      border-radius: 50%;
-      margin-bottom: 1rem;
-    }
     .button-link {
       display: inline-block;
       margin: 0.5rem;
@@ -75,7 +70,6 @@
 
 <!-- Hero Section -->
 <section class="hero">
-  <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" alt="Professional Analytics Image">
   <h1>Kaike Vieira</h1>
   <p style="font-size: 1.2rem;">Data Analyst | BI Developer | Process Optimizer</p>
   <p>Transforming complex data into actionable insights using Power BI, SQL, Python, and Excel.</p>
@@ -162,4 +156,5 @@
 
 </body>
 </html>
+
 
