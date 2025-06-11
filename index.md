@@ -134,8 +134,8 @@
 
   <div>
     <h3>💰 Financial Analysis – Canadian Banks (Interactive Dashboard)</h3>
-    <iframe title="Financial Analytics Project" width="100%" height="500" 
-            src="https://app.powerbi.com/reportEmbed?reportId=1f7f554e-734f-4f01-898e-8d3557a33728&autoAuth=true&ctid=c986676f-9b39-4d08-b4f8-a668e0e8c6a5" 
+    <iframe title="FinancialAnalyticsProject" width="1140" height="541.25" 
+            src="https://app.powerbi.com/reportEmbed?reportId=7a32fe36-1292-4b56-97b2-4c39ea346a71&autoAuth=true&ctid=c986676f-9b39-4d08-b4f8-a668e0e8c6a5" 
             frameborder="0" allowFullScreen="true"></iframe>
     <p>
       Performed descriptive financial analysis of Canada's Big 5 Banks using Power BI and Alpha Vantage API. 
