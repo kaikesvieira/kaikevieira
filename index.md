@@ -1,13 +1,15 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Kaike Vieira – Data Analyst & BI Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
-  <!-- Optional: Custom Fonts -->
+
+  <!-- Optional: Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
   <style>
     body {
       font-family: 'Inter', sans-serif;
@@ -22,8 +24,24 @@
       max-width: 900px;
       margin: auto;
     }
-    h1, h2, h3 {
-      margin-top: 0;
+    h1 {
+      font-size: 2.8rem;
+      font-weight: 700;
+    }
+    h2 {
+      font-size: 2rem;
+      font-weight: 700;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      border-left: 6px solid #1e3c72;
+      padding-left: 0.6rem;
+      color: #1e3c72;
+    }
+    h3 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-top: 1.5rem;
+      color: #333;
     }
     a {
       color: #007acc;
@@ -56,6 +74,7 @@
     }
     iframe {
       border-radius: 8px;
+      margin-top: 1rem;
     }
     footer {
       text-align: center;
@@ -66,6 +85,7 @@
     }
   </style>
 </head>
+
 <body>
 
 <!-- Hero Section -->
@@ -156,5 +176,6 @@
 
 </body>
 </html>
+
 
 
