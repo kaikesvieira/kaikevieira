@@ -134,7 +134,7 @@
 
   <div>
     <h3>💰 Financial Analysis – Canadian Banks (Interactive Dashboard)</h3>
-    <iframe title="FinancialAnalyticsProject" width="100%" height="100%" 
+    <iframe title="FinancialAnalyticsProject" width="100%" height="450" 
             src="https://app.powerbi.com/reportEmbed?reportId=7a32fe36-1292-4b56-97b2-4c39ea346a71&autoAuth=true&ctid=c986676f-9b39-4d08-b4f8-a668e0e8c6a5" 
             frameborder="0" allowFullScreen="true"></iframe>
     <p>
