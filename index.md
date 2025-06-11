@@ -106,7 +106,7 @@
     With over 4 years of experience in both engineering and analytics roles, I’ve developed a keen eye for optimizing processes and delivering data-driven results. I hold a Graduate Certificate in Data Analytics for Business from St. Clair College and a degree in Mechanical Engineering from a Brazilian university.
   </p>
   <p>
-    Currently, I work for the City of Windsor and COBS Bread, where I manage workforce data and analyze daily sales trends. My past experience includes building KPIs and dashboards in SQL, Excel, and Power BI to reduce equipment failure and improve operations.
+    Currently, I work for the City of Windsor and COBS Bread, where I manage workforce data and analyze daily sales trends while assisting customers. My past experience includes building KPIs and dashboards in SQL, Excel, and Power BI to reduce equipment failure and improve operations.
   </p>
 </section>
 
