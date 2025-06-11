@@ -1,5 +1,3 @@
-# 📊 Kaike Vieira – Data Analytics Portfolio
-
 Welcome! I'm Kaike Vieira, a Data Analyst with a background in engineering, data visualization, and business analysis. This portfolio highlights my work using Python, Power BI, and SQL to solve real-world problems through data.
 
 ## 🧠 Featured Projects
