@@ -157,7 +157,7 @@
     <ul>
       <li><strong>Tools:</strong> Power BI, DAX, Alpha Vantage API, Excel</li>
       <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-powerbi-big5-analysis">View Project on GitHub</a></li>
-      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/financial-powerbi-big5-analysis/Big5CanadianBanks_Presentation.pptx">View Project Presentation</a></li>
+      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/financial-powerbi-big5-analysis/Big5CanadianBanks_Presentation.pdf">View Project Presentation</a></li>
     </ul>
   </div>
 </section>
