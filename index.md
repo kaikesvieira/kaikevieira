@@ -138,7 +138,7 @@
       <!-- Code Thumbnail -->
     <img src="assets/metrics-thumbnail.png" alt="Code Snapshot" style="width:100%; border-radius: 10px; margin-top: 1rem;" />
       <!-- Download Button -->
-    <a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/sales-forecasting-egrocery/Final_Project_Report.docx" class="button-link" style="margin-top: 1rem; display: inline-block;">
+    <a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/sales-forecasting-egrocery/Final_Project_Report.pdf" class="button-link" style="margin-top: 1rem; display: inline-block;">
       📄 Download Project Report
     </a>
   </div>
