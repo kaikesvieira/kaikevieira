@@ -117,9 +117,9 @@
   <div>
     <h3>📦 Sales Forecasting – E-Grocery Industry</h3>
     <!-- Project Thumbnail -->
-    <img src="assets/sales_forecasting_thumbnail.png" alt="Sales Forecasting Thumbnail" style="width:100%; border-radius: 10px; margin-bottom: 1rem;" />
+    <img src="assets/metrics-thumbnail.png" alt="Sales Forecasting Thumbnail" style="width:100%; border-radius: 10px; margin-bottom: 1rem;" />
     <p>
-      This capstone project forecasts 14-day sales for a grocery warehouse in Frankfurt using advanced time series modeling. The goal was to reduce waste and improve inventory planning by capturing seasonal, promotional, and weather-driven sales patterns.
+      This project forecasts 14-day sales for a grocery warehouse in Frankfurt using advanced time series modeling. The goal was to reduce waste and improve inventory planning by capturing seasonal, promotional, and weather-driven sales patterns.
     </p>
     <p>
       <strong>Key Insights:</strong> Sales peaked on Fridays and dipped during holidays or store closures. Discounts often boosted sales but did not show a direct linear correlation. The "Fruit and Vegetables" category dominated total sales. Recursive Feature Elimination proved critical in selecting engineered features that significantly improved model performance.
@@ -136,7 +136,7 @@
       <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/sales-forecasting-egrocery">View on GitHub</a></li>
     </ul>
       <!-- Code Thumbnail -->
-    <img src="assets/code_thumbnail.png" alt="Code Snapshot" style="width:100%; border-radius: 10px; margin-top: 1rem;" />
+    <img src="assets/metrics-thumbnail.png" alt="Code Snapshot" style="width:100%; border-radius: 10px; margin-top: 1rem;" />
       <!-- Download Button -->
     <a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/sales-forecasting-egrocery/Final_Project_Report.docx" class="button-link" style="margin-top: 1rem; display: inline-block;">
       📄 Download Project Report
