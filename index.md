@@ -117,7 +117,7 @@
   <div>
     <h3>📦 Sales Forecasting – E-Grocery Industry</h3>
     <!-- Project Thumbnail -->
-    <img src="assets/metrics-thumbnail.png" alt="Sales Forecasting Thumbnail" style="width:100%; border-radius: 10px; margin-bottom: 1rem;" />
+    <img src="assets/xgboost-thumbnail.png" alt="Sales Forecasting Thumbnail" style="width:100%; border-radius: 10px; margin-bottom: 1rem;" />
     <p>
       This project forecasts 14-day sales for a grocery warehouse in Frankfurt using advanced time series modeling. The goal was to reduce waste and improve inventory planning by capturing seasonal, promotional, and weather-driven sales patterns.
     </p>
