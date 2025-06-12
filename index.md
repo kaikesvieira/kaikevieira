@@ -116,21 +116,34 @@
 
   <div>
     <h3>📦 Sales Forecasting – E-Grocery Industry</h3>
-    <p>Forecasted 14-day sales using time series models, improving inventory accuracy and reducing waste.</p>
-    <ul>
-      <li><strong>Tools:</strong> Python (Scikit-learn, LightGBM), PowerPoint, APIs</li>
+    <!-- Project Thumbnail -->
+    <img src="assets/sales_forecasting_thumbnail.png" alt="Sales Forecasting Thumbnail" style="width:100%; border-radius: 10px; margin-bottom: 1rem;" />
+    <p>
+      This capstone project forecasts 14-day sales for a grocery warehouse in Frankfurt using advanced time series modeling. The goal was to reduce waste and improve inventory planning by capturing seasonal, promotional, and weather-driven sales patterns.
+    </p>
+    <p>
+      <strong>Key Insights:</strong> Sales peaked on Fridays and dipped during holidays or store closures. Discounts often boosted sales but did not show a direct linear correlation. The "Fruit and Vegetables" category dominated total sales. Recursive Feature Elimination proved critical in selecting engineered features that significantly improved model performance.
+    </p>
+      <p>
+      <strong>Conclusion:</strong> XGBoost outperformed LightGBM in accuracy, achieving the lowest MAE and strongest R², but showed mild overfitting on high sales volumes. The combination of lag features, Fourier transforms, and calendar effects led to high model interpretability. This approach provides a scalable foundation for real-world sales forecasting in retail environments.
+    </p>
+      <ul>
+      <li><strong>Objective:</strong> Predict sales with high accuracy to reduce overstocking/understocking.</li>
+      <li><strong>Data:</strong> Historical sales (2 years), calendar (holidays), inventory, weather (Visual Crossing API)</li>
+      <li><strong>Features:</strong> Lag (7, 14, 365), rolling means, Fourier transforms, target & one-hot encoding</li>
+      <li><strong>Models:</strong> XGBoost (best), LightGBM</li>
+      <li><strong>Tech Stack:</strong> Python, Scikit-learn, Optuna, Google Colab, VS Code</li>
       <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/sales-forecasting-egrocery">View on GitHub</a></li>
     </ul>
+      <!-- Code Thumbnail -->
+    <img src="assets/code_thumbnail.png" alt="Code Snapshot" style="width:100%; border-radius: 10px; margin-top: 1rem;" />
+      <!-- Download Button -->
+    <a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/sales-forecasting-egrocery/Final_Project_Report.docx" class="button-link" style="margin-top: 1rem; display: inline-block;">
+      📄 Download Project Report
+    </a>
   </div>
 
-  <div>
-    <h3>🛍️ Customer Segmentation – Retail Dataset</h3>
-    <p>Segmented customers by purchasing behavior to support personalized marketing strategies.</p>
-    <ul>
-      <li><strong>Tools:</strong> Python (EDA, Clustering, Plotly)</li>
-      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/marketing2-customer-segmentation">View on GitHub</a></li>
-    </ul>
-  </div>
+
 
   <div>
     <h3>💰 Financial Analysis – Canadian Banks (Interactive Dashboard)</h3>
