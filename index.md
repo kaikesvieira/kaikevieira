@@ -153,7 +153,7 @@
       Your browser does not support the video tag.
     </video>
     <p>
-      This video demo presents a Power BI dashboard built to analyze Canada's Big 5 Banks using financial KPIs from Alpha Vantage API data. It showcases dynamic charts for profitability, performance trends, and bank comparisons. The data was cleaned, modeled, and visualized using Power BI, DAX, and Excel. Unfortunatly, due to restrictions associated with my student account, I could not embed the dashboard publicly. 
+      This video demo presents a Power BI dashboard built to analyze Canada's Big 5 Banks using financial KPIs from Alpha Vantage API data. It showcases dynamic charts for profitability, performance trends, and bank comparisons. The data was cleaned, modeled, and visualized using Power BI, DAX, and Excel. Unfortunately, due to restrictions associated with my student account, I am unable to embed the dashboard publicly.  
     </p>
     <ul>
       <li><strong>Tools:</strong> Power BI, DAX, Alpha Vantage API, Excel</li>
