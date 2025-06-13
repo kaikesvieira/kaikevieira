@@ -146,20 +146,22 @@
 
 
   <div>
-    <h3>💰 Financial Analysis – Canadian Banks (Interactive Dashboard)</h3>
-    <iframe title="FinancialAnalyticsProject" width="100%" height="425" 
-            src="https://app.powerbi.com/reportEmbed?reportId=7a32fe36-1292-4b56-97b2-4c39ea346a71&autoAuth=true&ctid=c986676f-9b39-4d08-b4f8-a668e0e8c6a5" 
-            frameborder="0" allowFullScreen="true"></iframe>
+    <h3>💰 Financial Analysis – Canadian Banks (Video Demo)</h3>
+    <!-- Embedded Video -->
+    <video width="100%" height="425" controls style="border-radius: 10px; margin-bottom: 1rem;">
+      <source src="assets/financial-analysis-report-video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
     <p>
-      Performed descriptive financial analysis of Canada's Big 5 Banks using Power BI and Alpha Vantage API. 
-      Transformed raw API data into structured tables and created interactive dashboards visualizing profitability, growth trends, and bank comparisons.
+      This video demo presents a Power BI dashboard built to analyze Canada's Big 5 Banks using financial KPIs from Alpha Vantage API data. It showcases dynamic charts for profitability, performance trends, and bank comparisons. The data was cleaned, modeled, and visualized using Power BI, DAX, and Excel. Unfortunatly, due to restrictions associated with my student account, I could not embed the dashboard publicly. 
     </p>
     <ul>
       <li><strong>Tools:</strong> Power BI, DAX, Alpha Vantage API, Excel</li>
-      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-powerbi-big5-analysis">View Project on GitHub</a></li>
+      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-powerbi-big5-analysis">Download report from GitHub</a></li>
       <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/financial-powerbi-big5-analysis/Big5CanadianBanks_Presentation.pdf">View Project Presentation</a></li>
     </ul>
   </div>
+
 </section>
 
 <!-- Resume Section -->
