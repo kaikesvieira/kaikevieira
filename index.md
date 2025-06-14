@@ -160,6 +160,29 @@
       <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/financial-powerbi-big5-analysis">Download report from GitHub</a></li>
       <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/blob/main/financial-powerbi-big5-analysis/Big5CanadianBanks_Presentation.pdf">View Project Presentation</a></li>
     </ul>
+  
+  </div>
+    <div>
+    <h3>🚗 User Engagement & Churn Analysis – Waze App</h3>
+    <!-- Project Thumbnail -->
+    <img src="assets/waze-thumbnail.png" alt="Waze Project Thumbnail" style="width:100%; border-radius: 10px; margin-bottom: 1rem;" />
+    <p>
+      This project explored Waze user engagement and churn behavior using a labeled dataset of app activity. It applies data preprocessing, statistical analysis, segmentation, and predictive modeling to support retention strategy recommendations.
+    </p>
+    <p>
+      <strong>Key Insights:</strong> Users with longer tenure showed significantly lower churn risk. Android users had different engagement patterns compared to iOS users. High churn correlated with reduced app usage metrics such as drives and minutes driven.
+    </p>
+    <p>
+      <strong>Conclusion:</strong> By using a Decision Tree classifier and visual data exploration, the analysis revealed churn predictors and enabled targeted retention actions like device-specific marketing and reactivation campaigns.
+    </p>
+    <ul>
+      <li><strong>Objective:</strong> Predict user churn and optimize marketing for retention</li>
+      <li><strong>Data:</strong> User engagement logs, churn labels, device type, tenure</li>
+      <li><strong>Models:</strong> Decision Tree Classifier</li>
+      <li><strong>Visuals:</strong> Correlation matrix, feature importance, churn distribution, customer attrition profile</li>
+      <li><strong>Tech Stack:</strong> Python (Pandas, scikit-learn), Jupyter Notebook, PowerPoint</li>
+      <li><a href="https://github.com/kaikesvieira/kaikevieira-data-portfolio/tree/main/marketing-waze-analysis">View on GitHub</a></li>
+    </ul>
   </div>
 
 </section>
