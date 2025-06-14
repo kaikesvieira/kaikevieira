@@ -165,6 +165,9 @@
     <div>
     <h3>🚗 User Engagement & Churn Analysis – Waze App</h3>
     <!-- Project Thumbnail -->
+      <p>
+      Relationship between minutes and kms driven
+      </p>
     <img src="assets/waze-thumbnail.png" alt="Waze Project Thumbnail" style="width:100%; border-radius: 10px; margin-bottom: 1rem;" />
     <p>
       This project explored Waze user engagement and churn behavior using a labeled dataset of app activity. It applies data preprocessing, statistical analysis, segmentation, and predictive modeling to support retention strategy recommendations.
